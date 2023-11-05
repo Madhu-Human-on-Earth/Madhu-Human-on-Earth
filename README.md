@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI&ML, JAVA FULL STACK,ORACLE,CLOUD, SPRING
 - 🌱 I’m currently learning AI&ML,FULL STACK
 - 💞️ I’m looking to collaborate on FULL STACK JAVA DEVELOPER.
-- 📫 How to reach me .... https://www.linkedin.com/in/katepalli-madhu-337172200/
+- 📫 How to reach me   https://www.linkedin.com/in/madhu-337172200/
 
 
 <!---
