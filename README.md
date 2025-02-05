@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Madhu-Human-on-Earth
 - 👀 I’m interested in AI&ML, JAVA FULL STACK,ORACLE,CLOUD, SPRING
-- 🌱 I’m currently learning AI&ML,FULL STACK
-- 💞️ I’m looking to collaborate on FULL STACK JAVA DEVELOPER.
-- 📫 How to reach me   https://www.linkedin.com/in/madhu-337172200/
+- 🌱 I’m currently learning AI&ML,SECURITY
+- 💞️ I’m looking to collaborate on JAVA DEVELOPER, GEN AI, SECURITY.
+- 📫 How to reach me  https://www.linkedin.com/in/madhu-k-337172200/
 
 
 <!---
